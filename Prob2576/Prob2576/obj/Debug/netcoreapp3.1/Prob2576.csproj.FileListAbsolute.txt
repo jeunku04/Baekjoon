@@ -1,0 +1,14 @@
+D:\응귱\VSProjects\Prob2576\Prob2576\bin\Debug\netcoreapp3.1\Prob2576.exe
+D:\응귱\VSProjects\Prob2576\Prob2576\bin\Debug\netcoreapp3.1\Prob2576.deps.json
+D:\응귱\VSProjects\Prob2576\Prob2576\bin\Debug\netcoreapp3.1\Prob2576.runtimeconfig.json
+D:\응귱\VSProjects\Prob2576\Prob2576\bin\Debug\netcoreapp3.1\Prob2576.runtimeconfig.dev.json
+D:\응귱\VSProjects\Prob2576\Prob2576\bin\Debug\netcoreapp3.1\Prob2576.dll
+D:\응귱\VSProjects\Prob2576\Prob2576\bin\Debug\netcoreapp3.1\Prob2576.pdb
+D:\응귱\VSProjects\Prob2576\Prob2576\obj\Debug\netcoreapp3.1\Prob2576.csproj.AssemblyReference.cache
+D:\응귱\VSProjects\Prob2576\Prob2576\obj\Debug\netcoreapp3.1\Prob2576.GeneratedMSBuildEditorConfig.editorconfig
+D:\응귱\VSProjects\Prob2576\Prob2576\obj\Debug\netcoreapp3.1\Prob2576.AssemblyInfoInputs.cache
+D:\응귱\VSProjects\Prob2576\Prob2576\obj\Debug\netcoreapp3.1\Prob2576.AssemblyInfo.cs
+D:\응귱\VSProjects\Prob2576\Prob2576\obj\Debug\netcoreapp3.1\Prob2576.csproj.CoreCompileInputs.cache
+D:\응귱\VSProjects\Prob2576\Prob2576\obj\Debug\netcoreapp3.1\Prob2576.dll
+D:\응귱\VSProjects\Prob2576\Prob2576\obj\Debug\netcoreapp3.1\Prob2576.pdb
+D:\응귱\VSProjects\Prob2576\Prob2576\obj\Debug\netcoreapp3.1\Prob2576.genruntimeconfig.cache
