@@ -1,0 +1,14 @@
+D:\응귱\VSProjects\Prob2739\Prob2739\bin\Debug\netcoreapp3.1\Prob2739.exe
+D:\응귱\VSProjects\Prob2739\Prob2739\bin\Debug\netcoreapp3.1\Prob2739.deps.json
+D:\응귱\VSProjects\Prob2739\Prob2739\bin\Debug\netcoreapp3.1\Prob2739.runtimeconfig.json
+D:\응귱\VSProjects\Prob2739\Prob2739\bin\Debug\netcoreapp3.1\Prob2739.runtimeconfig.dev.json
+D:\응귱\VSProjects\Prob2739\Prob2739\bin\Debug\netcoreapp3.1\Prob2739.dll
+D:\응귱\VSProjects\Prob2739\Prob2739\bin\Debug\netcoreapp3.1\Prob2739.pdb
+D:\응귱\VSProjects\Prob2739\Prob2739\obj\Debug\netcoreapp3.1\Prob2739.GeneratedMSBuildEditorConfig.editorconfig
+D:\응귱\VSProjects\Prob2739\Prob2739\obj\Debug\netcoreapp3.1\Prob2739.AssemblyInfoInputs.cache
+D:\응귱\VSProjects\Prob2739\Prob2739\obj\Debug\netcoreapp3.1\Prob2739.AssemblyInfo.cs
+D:\응귱\VSProjects\Prob2739\Prob2739\obj\Debug\netcoreapp3.1\Prob2739.csproj.CoreCompileInputs.cache
+D:\응귱\VSProjects\Prob2739\Prob2739\obj\Debug\netcoreapp3.1\Prob2739.dll
+D:\응귱\VSProjects\Prob2739\Prob2739\obj\Debug\netcoreapp3.1\Prob2739.pdb
+D:\응귱\VSProjects\Prob2739\Prob2739\obj\Debug\netcoreapp3.1\Prob2739.genruntimeconfig.cache
+D:\응귱\VSProjects\Prob2739\Prob2739\obj\Debug\netcoreapp3.1\Prob2739.csproj.AssemblyReference.cache
