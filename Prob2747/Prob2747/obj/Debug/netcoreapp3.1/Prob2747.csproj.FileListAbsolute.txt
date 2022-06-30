@@ -1,0 +1,14 @@
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\bin\Debug\netcoreapp3.1\Prob2747.exe
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\bin\Debug\netcoreapp3.1\Prob2747.deps.json
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\bin\Debug\netcoreapp3.1\Prob2747.runtimeconfig.json
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\bin\Debug\netcoreapp3.1\Prob2747.runtimeconfig.dev.json
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\bin\Debug\netcoreapp3.1\Prob2747.dll
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\bin\Debug\netcoreapp3.1\Prob2747.pdb
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\obj\Debug\netcoreapp3.1\Prob2747.csproj.AssemblyReference.cache
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\obj\Debug\netcoreapp3.1\Prob2747.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\obj\Debug\netcoreapp3.1\Prob2747.AssemblyInfoInputs.cache
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\obj\Debug\netcoreapp3.1\Prob2747.AssemblyInfo.cs
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\obj\Debug\netcoreapp3.1\Prob2747.csproj.CoreCompileInputs.cache
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\obj\Debug\netcoreapp3.1\Prob2747.dll
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\obj\Debug\netcoreapp3.1\Prob2747.pdb
+C:\Users\sejong2021\source\repos\Prob2747\Prob2747\obj\Debug\netcoreapp3.1\Prob2747.genruntimeconfig.cache
