@@ -1,0 +1,14 @@
+D:\응귱\VSProjects\Prob2884\Prob2884\bin\Debug\netcoreapp3.1\Prob2884.exe
+D:\응귱\VSProjects\Prob2884\Prob2884\bin\Debug\netcoreapp3.1\Prob2884.deps.json
+D:\응귱\VSProjects\Prob2884\Prob2884\bin\Debug\netcoreapp3.1\Prob2884.runtimeconfig.json
+D:\응귱\VSProjects\Prob2884\Prob2884\bin\Debug\netcoreapp3.1\Prob2884.runtimeconfig.dev.json
+D:\응귱\VSProjects\Prob2884\Prob2884\bin\Debug\netcoreapp3.1\Prob2884.dll
+D:\응귱\VSProjects\Prob2884\Prob2884\bin\Debug\netcoreapp3.1\Prob2884.pdb
+D:\응귱\VSProjects\Prob2884\Prob2884\obj\Debug\netcoreapp3.1\Prob2884.csproj.AssemblyReference.cache
+D:\응귱\VSProjects\Prob2884\Prob2884\obj\Debug\netcoreapp3.1\Prob2884.GeneratedMSBuildEditorConfig.editorconfig
+D:\응귱\VSProjects\Prob2884\Prob2884\obj\Debug\netcoreapp3.1\Prob2884.AssemblyInfoInputs.cache
+D:\응귱\VSProjects\Prob2884\Prob2884\obj\Debug\netcoreapp3.1\Prob2884.AssemblyInfo.cs
+D:\응귱\VSProjects\Prob2884\Prob2884\obj\Debug\netcoreapp3.1\Prob2884.csproj.CoreCompileInputs.cache
+D:\응귱\VSProjects\Prob2884\Prob2884\obj\Debug\netcoreapp3.1\Prob2884.dll
+D:\응귱\VSProjects\Prob2884\Prob2884\obj\Debug\netcoreapp3.1\Prob2884.pdb
+D:\응귱\VSProjects\Prob2884\Prob2884\obj\Debug\netcoreapp3.1\Prob2884.genruntimeconfig.cache
