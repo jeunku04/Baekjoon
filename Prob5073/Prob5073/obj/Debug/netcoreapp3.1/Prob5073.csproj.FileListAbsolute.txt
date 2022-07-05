@@ -1,0 +1,14 @@
+D:\응귱\VSProjects\Prob5073\Prob5073\bin\Debug\netcoreapp3.1\Prob5073.exe
+D:\응귱\VSProjects\Prob5073\Prob5073\bin\Debug\netcoreapp3.1\Prob5073.deps.json
+D:\응귱\VSProjects\Prob5073\Prob5073\bin\Debug\netcoreapp3.1\Prob5073.runtimeconfig.json
+D:\응귱\VSProjects\Prob5073\Prob5073\bin\Debug\netcoreapp3.1\Prob5073.runtimeconfig.dev.json
+D:\응귱\VSProjects\Prob5073\Prob5073\bin\Debug\netcoreapp3.1\Prob5073.dll
+D:\응귱\VSProjects\Prob5073\Prob5073\bin\Debug\netcoreapp3.1\Prob5073.pdb
+D:\응귱\VSProjects\Prob5073\Prob5073\obj\Debug\netcoreapp3.1\Prob5073.csproj.AssemblyReference.cache
+D:\응귱\VSProjects\Prob5073\Prob5073\obj\Debug\netcoreapp3.1\Prob5073.GeneratedMSBuildEditorConfig.editorconfig
+D:\응귱\VSProjects\Prob5073\Prob5073\obj\Debug\netcoreapp3.1\Prob5073.AssemblyInfoInputs.cache
+D:\응귱\VSProjects\Prob5073\Prob5073\obj\Debug\netcoreapp3.1\Prob5073.AssemblyInfo.cs
+D:\응귱\VSProjects\Prob5073\Prob5073\obj\Debug\netcoreapp3.1\Prob5073.csproj.CoreCompileInputs.cache
+D:\응귱\VSProjects\Prob5073\Prob5073\obj\Debug\netcoreapp3.1\Prob5073.dll
+D:\응귱\VSProjects\Prob5073\Prob5073\obj\Debug\netcoreapp3.1\Prob5073.pdb
+D:\응귱\VSProjects\Prob5073\Prob5073\obj\Debug\netcoreapp3.1\Prob5073.genruntimeconfig.cache

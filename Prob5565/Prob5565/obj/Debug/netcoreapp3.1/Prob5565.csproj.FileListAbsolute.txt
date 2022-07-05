@@ -1,0 +1,14 @@
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\bin\Debug\netcoreapp3.1\Prob5565.exe
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\bin\Debug\netcoreapp3.1\Prob5565.deps.json
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\bin\Debug\netcoreapp3.1\Prob5565.runtimeconfig.json
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\bin\Debug\netcoreapp3.1\Prob5565.runtimeconfig.dev.json
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\bin\Debug\netcoreapp3.1\Prob5565.dll
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\bin\Debug\netcoreapp3.1\Prob5565.pdb
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\obj\Debug\netcoreapp3.1\Prob5565.csproj.AssemblyReference.cache
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\obj\Debug\netcoreapp3.1\Prob5565.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\obj\Debug\netcoreapp3.1\Prob5565.AssemblyInfoInputs.cache
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\obj\Debug\netcoreapp3.1\Prob5565.AssemblyInfo.cs
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\obj\Debug\netcoreapp3.1\Prob5565.csproj.CoreCompileInputs.cache
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\obj\Debug\netcoreapp3.1\Prob5565.dll
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\obj\Debug\netcoreapp3.1\Prob5565.pdb
+C:\Users\sejong2021\source\repos\Prob5565\Prob5565\obj\Debug\netcoreapp3.1\Prob5565.genruntimeconfig.cache
