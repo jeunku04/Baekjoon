@@ -1,0 +1,14 @@
+C:\Users\sejong2021\source\repos\10156\10156\bin\Debug\netcoreapp3.1\10156.exe
+C:\Users\sejong2021\source\repos\10156\10156\bin\Debug\netcoreapp3.1\10156.deps.json
+C:\Users\sejong2021\source\repos\10156\10156\bin\Debug\netcoreapp3.1\10156.runtimeconfig.json
+C:\Users\sejong2021\source\repos\10156\10156\bin\Debug\netcoreapp3.1\10156.runtimeconfig.dev.json
+C:\Users\sejong2021\source\repos\10156\10156\bin\Debug\netcoreapp3.1\10156.dll
+C:\Users\sejong2021\source\repos\10156\10156\bin\Debug\netcoreapp3.1\10156.pdb
+C:\Users\sejong2021\source\repos\10156\10156\obj\Debug\netcoreapp3.1\10156.csproj.AssemblyReference.cache
+C:\Users\sejong2021\source\repos\10156\10156\obj\Debug\netcoreapp3.1\10156.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejong2021\source\repos\10156\10156\obj\Debug\netcoreapp3.1\10156.AssemblyInfoInputs.cache
+C:\Users\sejong2021\source\repos\10156\10156\obj\Debug\netcoreapp3.1\10156.AssemblyInfo.cs
+C:\Users\sejong2021\source\repos\10156\10156\obj\Debug\netcoreapp3.1\10156.csproj.CoreCompileInputs.cache
+C:\Users\sejong2021\source\repos\10156\10156\obj\Debug\netcoreapp3.1\10156.dll
+C:\Users\sejong2021\source\repos\10156\10156\obj\Debug\netcoreapp3.1\10156.pdb
+C:\Users\sejong2021\source\repos\10156\10156\obj\Debug\netcoreapp3.1\10156.genruntimeconfig.cache
