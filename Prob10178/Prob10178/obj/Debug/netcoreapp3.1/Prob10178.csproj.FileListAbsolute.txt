@@ -1,0 +1,14 @@
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\obj\Debug\netcoreapp3.1\Prob10178.csproj.AssemblyReference.cache
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\obj\Debug\netcoreapp3.1\Prob10178.GeneratedMSBuildEditorConfig.editorconfig
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\obj\Debug\netcoreapp3.1\Prob10178.AssemblyInfoInputs.cache
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\obj\Debug\netcoreapp3.1\Prob10178.AssemblyInfo.cs
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\obj\Debug\netcoreapp3.1\Prob10178.csproj.CoreCompileInputs.cache
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\bin\Debug\netcoreapp3.1\Prob10178.exe
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\bin\Debug\netcoreapp3.1\Prob10178.deps.json
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\bin\Debug\netcoreapp3.1\Prob10178.runtimeconfig.json
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\bin\Debug\netcoreapp3.1\Prob10178.runtimeconfig.dev.json
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\bin\Debug\netcoreapp3.1\Prob10178.dll
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\bin\Debug\netcoreapp3.1\Prob10178.pdb
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\obj\Debug\netcoreapp3.1\Prob10178.dll
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\obj\Debug\netcoreapp3.1\Prob10178.pdb
+D:\응귱\코딩\VSProjects\Prob10178\Prob10178\obj\Debug\netcoreapp3.1\Prob10178.genruntimeconfig.cache
