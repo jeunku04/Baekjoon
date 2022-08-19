@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sejong2021\\source\\repos\\Prob9498\\Prob9498\\Prob9498.csproj",
+      "projectUniqueName": "D:\\응귱\\코딩\\VSProjects\\Prob9498\\Prob9498\\Prob9498.csproj",
       "projectName": "Prob9498",
-      "projectPath": "C:\\Users\\sejong2021\\source\\repos\\Prob9498\\Prob9498\\Prob9498.csproj",
+      "projectPath": "D:\\응귱\\코딩\\VSProjects\\Prob9498\\Prob9498\\Prob9498.csproj",
       "packagesPath": "C:\\Users\\sejong2021\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sejong2021\\source\\repos\\Prob9498\\Prob9498\\obj\\",
+      "outputPath": "D:\\응귱\\코딩\\VSProjects\\Prob9498\\Prob9498\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sejong2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
