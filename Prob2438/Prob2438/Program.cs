@@ -5,16 +5,18 @@ namespace Prob2438
     class Program
     {
         static void Main(string[] args)
-        {   // 별 찍기 - 1 (2438)
+        {
             string input = Console.ReadLine();
-            int n = int.Parse(input);
-            for (int i = 0; i < n; i++)
+            string[] arrinput = input.Split();
+            int a = int.Parse(arrinput[0]);
+            int b = int.Parse(arrinput[1]);
             {
-                for (int j = 0; j <= i; j++)
-                {
-                    Console.Write("*");
-                }
-                Console.WriteLine();
+                if (a > b)
+                    Console.WriteLine(">");
+                else if (a < b)
+                    Console.WriteLine("<");
+                else if (a == b)
+                    Console.WriteLine("==");
             }
         }
     }
