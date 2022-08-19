@@ -1,0 +1,14 @@
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\bin\Debug\netcoreapp3.1\Prob2438.exe
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\bin\Debug\netcoreapp3.1\Prob2438.deps.json
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\bin\Debug\netcoreapp3.1\Prob2438.runtimeconfig.json
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\bin\Debug\netcoreapp3.1\Prob2438.runtimeconfig.dev.json
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\bin\Debug\netcoreapp3.1\Prob2438.dll
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\bin\Debug\netcoreapp3.1\Prob2438.pdb
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\obj\Debug\netcoreapp3.1\Prob2438.csproj.AssemblyReference.cache
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\obj\Debug\netcoreapp3.1\Prob2438.GeneratedMSBuildEditorConfig.editorconfig
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\obj\Debug\netcoreapp3.1\Prob2438.AssemblyInfoInputs.cache
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\obj\Debug\netcoreapp3.1\Prob2438.AssemblyInfo.cs
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\obj\Debug\netcoreapp3.1\Prob2438.csproj.CoreCompileInputs.cache
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\obj\Debug\netcoreapp3.1\Prob2438.dll
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\obj\Debug\netcoreapp3.1\Prob2438.pdb
+D:\응귱\코딩\VSProjects\Prob2438\Prob2438\obj\Debug\netcoreapp3.1\Prob2438.genruntimeconfig.cache
